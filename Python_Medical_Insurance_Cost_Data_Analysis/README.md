@@ -1,0 +1,3 @@
+# U.S. Medical Insurance Data Analysis with Jupyter
+This project uses a fictional dataset in csv format created by Codecademy that I used to practice my data analytics skills with Python (right before I learned how to use Pandas and NumPy). I loaded the patient data into a main dictionary which can then be sliced into different subsets of data if desired via a function. The class I built uses a dictionary of patient data as an input, creates lists with the data of each column, and offers methods to explore descriptive statistics as well as answer more specific analytics questions.
+In the Jupyter Notebook, I also note some issues with the distribution of the data and list possible directions for further research.
