@@ -1,5 +1,0 @@
-# Pandas Data Manipulation Project with Jeopardy! Data
-
-For Codecademy's final challenge project on pandas, I used a real-world, completely unmodified dataset of Jeopardy! questions and answers. Each question and answer are associated with a category and a dollar reward value as well as a date and number identifying the show in which it was used. Further, each question is part of a round, either Jeopardy! or Double Jeopardy!, where Double Jeopardy! questions have twice the amount of value as those in the Jeopardy! round.
-
-In this Jupyter Notebook, I first load the data before cleaning up the column names. I build functions that can filter the dataset by keywords to examine frequencies of appearance in questions, answers, or categories, overall and by decade. I also look at how keywords or categories relate to dollar rewards and frequency by round.
