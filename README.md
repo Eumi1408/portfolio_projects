@@ -1,6 +1,8 @@
 ![print(Hello World, how can I help)](https://user-images.githubusercontent.com/75530429/209966421-a616e523-7162-4a9c-b432-5867644db18a.png)
 
-<div align="center"><em>Let's connect on [LinkedIn](https://www.linkedin.com/in/stina-niemann-24a03182/).</em></div>
+<div align="center"> Let's connect on <a href="https://www.linkedin.com/in/stina-niemann-24a03182/">LinkedIn</a></div>
+
+___
 
 ### 01 Python/Pandas Data Analysis of Biodiversity in U.S. National Parks
 In this Jupyter Notebook, I clean, analyze, and visualize a dataset of wildlife observations in four U.S. National Parks: Bryce Canyon, Great Smoky Mountains, Yellowstone, and Yosemite using pandas, seaborn, and matplotlib. Did you know that these parks have over 5000 scientific species of plants and animals in common?
