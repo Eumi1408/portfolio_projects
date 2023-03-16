@@ -13,7 +13,7 @@ In this Jupyter Notebook, I clean, analyze, and visualize a dataset of wildlife 
 ### 03 Python Recipe Recommendation Engine
 I built a simple recipe recommendation engine using stacks as the data structure and merge sort as the sorting algorithm. Some of my favorite dishes are organized by category and displayed based on the user's interests, subsequently getting popped off the stack. Once the stack of a given category is empty, the user is prompted to select other categories - it is important to have a balanced diet!
 
-### 04 Python/Pandas Medical Insurance Cost Data Analysis
+### 04 Python Medical Insurance Cost Data Analysis
 This project uses a fictional dataset in csv format created by Codecademy that I used to practice my data analytics skills with Python (right before I learned how to use Pandas). After walking the reader through my analysis, I note some issues with the distribution of the data and list possible directions for further research.
 
 ### 05 SQL Data Analysis of Twitch Gaming Data
