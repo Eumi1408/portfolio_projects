@@ -3,6 +3,6 @@ Cereal serving sizes pictured on the box have almost twice as many calories as t
 
 In this notebook, I load the dataset based on my own hands-on research (yes, cereal was a major food source during this time). I implement a linear regression machine learning model with sklearn to show the relationship between depicted vs. suggested serving size:
 
-![Linear regression graph predicting depicted total calories based on total calories provided on nutrition facts label](cereal_serving_regression.png)
+![Linear regression predicting depicted total calories based on total calories provided on nutrition facts label](cereal_serving_regression.png)
 
 The study is part of a research article that I co-authored. It has been published in the <a href="https://pubmed.ncbi.nlm.nih.gov/28166756//">BMC Public Health Journal</a>.
