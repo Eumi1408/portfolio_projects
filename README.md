@@ -17,7 +17,7 @@ I built a simple recipe recommendation engine using stacks as the data structure
 This project uses a fictional dataset in csv format created by Codecademy that I used to practice my data analytics skills with Python (right before I learned how to use Pandas). After walking the reader through my analysis, I note some issues with the distribution of the data and list possible directions for further research.
 
 ### 05 SQL Data Analysis of Twitch Gaming Data
-I had no idea what Twitch was all about until I worked with this dataset provided by the company. Using SQLite to explore the dataset and gain further insights, I gain an understanding about the stream and chat functions on Twitch and how they connect the global gaming community.
+I had no idea what Twitch was all about until I worked with this dataset provided by the company. Using SQLite to explore the dataset and gain further insights, I developed an understanding about the stream and chat functions on Twitch and how they connect the global gaming community.
 
 ### 06 Tableau Public Data Visualization Dashboard about 2015 U.S. Airplane and Wildlife Collisions
-I created a summary dashboard on Tableau Public. Codecademy provided the a shortened dataset of the original data curated by the Federal Aviation Administration in csv format so that the data could be used with the free version of Tableau. I practiced using different types of visualizations, formatting, labeling, color themes, annotations, dimensions vs. attributes vs. measures, and more.
+I created a summary dashboard on Tableau Public. Codecademy provided a shortened dataset of the original data curated by the Federal Aviation Administration in csv format so that the data could be used with the free version of Tableau. I practiced using different types of visualizations, formatting, labeling, color themes, annotations, dimensions vs. attributes vs. measures, and more.
