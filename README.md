@@ -4,6 +4,9 @@
 
 ___
 
+### 00 BookStack Wiki Page Tag Error Analysis
+As a data engineering contractor at the German-based social impact startup, Turtuga changemaker community UG, I own the development of universal Python framework for BookStack REST API methods. I am building and refining a page tag review script for QA of manual entries that is now used by the company.
+
 ### 01 Python/Sklearn Linear Regression Model on Cereal Serving Sizes
 Cereal box mascots have big breakfasts - but should we? In this notebook, I load the dataset based on my own hands-on research from a study I co-authored and published as part of an internship at Cornell University and an independent study at Dickinson College. I implement a linear regression machine learning model with sklearn to show the relationship between depicted vs. suggested serving size. I found that the portion size displayed on the box has about twice as many calories as the suggested serving size on the nutrition facts label on the back. This difference combined with the power of visual cues compared to numbers may lead to unintentional overconsumption.
 
