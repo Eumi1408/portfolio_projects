@@ -10,7 +10,7 @@ def get_filter_str(filter):
     return filter_str
 
 
-def append_url_list_parameters(count=0, offset=0, sort=None, filters=[]):
+def create_url_parameters_string(count=0, offset=0, sort=None, filters=[]):
 
     parameter_list=[]
 

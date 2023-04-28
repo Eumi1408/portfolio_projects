@@ -1,5 +1,5 @@
 import requests
-from bookstack_api_framework.api_url import append_url_list_parameters
+from bookstack_api_framework.api_url import create_url_parameters_string
 
 class Pages:
     
@@ -18,9 +18,10 @@ class Pages:
     
     def list(self, count=0, offset=0, sort=None, filters=[]):
         
-        api_url = self.base_url + '/pages?' + append_url_list_parameters(count, offset, sort, filters)
+        api_url = self.base_url + '/pages?' + create_url_parameters_string(count, offset, sort, filters)
         base_response = requests.get(api_url, headers={'Authorization': 'Token {0}:{1}'.format(self.token_id, self.token_secret)})
-        base_response_json = base_response.json()
+        response_json = base_response.json()
+    
         
-        return base_response_json['data']
+        return response_json
 
